@@ -1,3 +1,5 @@
+VELOPERT 님의 글을 읽고 따라해가며 진행했습니다. https://velopert.com/3480
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
